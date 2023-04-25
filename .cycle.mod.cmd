@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/tee_agent/cycle.mod := printf '%s\n'   dynamic_measure.o sm3.o | awk '!x[$$0]++ { print("/home/ubuntu/op-tee/yzc/modules/tee_agent/"$$0) }' > /home/ubuntu/op-tee/yzc/modules/tee_agent/cycle.mod

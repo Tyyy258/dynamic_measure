@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/tee_agent/Module.symvers :=  scripts/mod/modpost       -o /home/ubuntu/op-tee/yzc/modules/tee_agent/Module.symvers -T /home/ubuntu/op-tee/yzc/modules/tee_agent/modules.order -i Module.symvers -e 

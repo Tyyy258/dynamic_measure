@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/tee_agent/cycle.o := /home/ubuntu/op-tee/toolchains/aarch64/bin/aarch64-linux-gnu-ld  -EL  -maarch64elf -z noexecstack     -r -o /home/ubuntu/op-tee/yzc/modules/tee_agent/cycle.o @/home/ubuntu/op-tee/yzc/modules/tee_agent/cycle.mod 

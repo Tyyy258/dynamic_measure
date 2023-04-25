@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/tee_agent/modules.order := {   echo /home/ubuntu/op-tee/yzc/modules/tee_agent/tee_agent.o;   echo /home/ubuntu/op-tee/yzc/modules/tee_agent/cycle.o; :; } > /home/ubuntu/op-tee/yzc/modules/tee_agent/modules.order

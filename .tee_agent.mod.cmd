@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/tee_agent/tee_agent.mod := printf '%s\n'   tee_agent.o | awk '!x[$$0]++ { print("/home/ubuntu/op-tee/yzc/modules/tee_agent/"$$0) }' > /home/ubuntu/op-tee/yzc/modules/tee_agent/tee_agent.mod

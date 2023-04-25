@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/tee_agent/tee_agent.ko := /home/ubuntu/op-tee/toolchains/aarch64/bin/aarch64-linux-gnu-ld -r  -EL  -maarch64elf -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/op-tee/yzc/modules/tee_agent/tee_agent.ko /home/ubuntu/op-tee/yzc/modules/tee_agent/tee_agent.o /home/ubuntu/op-tee/yzc/modules/tee_agent/tee_agent.mod.o;  true
